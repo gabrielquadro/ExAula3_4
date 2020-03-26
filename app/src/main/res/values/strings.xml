@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExAula2_4</string>
+    <string name="consumo">Consumo total R$:</string>
+    <string name="convertArtistico">Convert Artistico R$:</string>
+    <string name="dividirConta">Dividir conta por:</string>
+    <string name="calcular">Calcular conta final</string>
+    <string name="taxa">Taxa de Serviço(10%) R$</string>
+    <string name="contaTotal">Conta total R$:</string>
+    <string name="valorPessoa">Valor por pessoa R$:</string>
+</resources>
